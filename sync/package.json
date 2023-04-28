@@ -1,0 +1,15 @@
+{
+  "name": "Test for Fundraise Up (SYNC)",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\""
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.3.0"
+  }
+}

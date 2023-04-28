@@ -1,0 +1,17 @@
+{
+  "name": "Test for Fundraise Up (APP)",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\""
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/mongoose": "^5.11.97",
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.4"
+  }
+}
